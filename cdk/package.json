@@ -1,0 +1,22 @@
+{
+  "name": "cdk-scanning",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "synth": "cdk synth",
+    "cdk": "cdk"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.150.0",
+    "constructs": "^10.3.0",
+    "source-map-support": "^0.5.21",
+    "aws-lambda": "^1.0.7",
+    "aws-cdk-lib/aws-lambda-nodejs": "^2.150.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "@types/node": "^20.14.10",
+    "ts-node": "^10.9.2"
+  }
+}
