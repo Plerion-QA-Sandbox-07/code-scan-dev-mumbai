@@ -1,4 +1,4 @@
-name: "Plerion – Upload IaC artifact"
+name: "Plerion  Upload IaC artifact"
 
 on:
   pull_request:
